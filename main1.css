@@ -1,0 +1,45 @@
+.container {
+	border-left: 10px;
+	border-right: 10px;
+	background: lightgray;
+	border: 10px solid #DFDFDF;
+}
+
+.row {
+	font-family: Times New Roman;
+	border-left: 3px;
+	border-right: 3px;
+	padding: 8px;
+
+}
+
+.a {
+	color: #FCFC0C;
+}
+
+.col-lg-6 {
+	text-align: center;
+
+}
+
+.responsive-iframe {
+	position: absolute;
+	margin-left: 0px;
+	max-width: 100%
+	width: 100%;
+}
+
+.row {
+	margin-left: 0px
+	max-width:100%;
+
+}
+
+.col-lg {
+	justify-content: start;
+}
+
+.p {
+	text-align: left;
+}
+
